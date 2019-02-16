@@ -1,9 +1,14 @@
- WebServer
+# WebServer 
 A webserver using express framework of node.js
 
-Steps to execute the file
+### Installation
 
-1- Install node.js from the officail website https://nodejs.org/
-2- Install the express framework using command in terminal  npm install express --save
-3- Run using nodemon server.js
+Webserver requires [Node.js](https://nodejs.org/) v4+ to run.
 
+Install the dependencies and devDependencies and start the server.
+
+```sh
+$ cd webserver
+$ npm install express --save
+$ node sever.js
+```
