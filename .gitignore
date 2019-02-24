@@ -4,5 +4,6 @@ package.json
 =======
 /node_modules
 package.json
+server.log
 >>>>>>> fd5cd049f423cb7f346509388a35724a2d93add8
 package-lock.json
